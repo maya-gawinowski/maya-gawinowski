@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Currently open to new opportunities.
+<br>
+<br>
 I combine my expertise in full-stack development (React, TypeScript, QML, C++) with a strong interest in UX/UI and user-centered design to craft meaningful digital experiences.
 
 Past or current works you can find on my Github (non-exhaustive):
